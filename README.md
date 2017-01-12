@@ -1,6 +1,4 @@
-(My fork of...)
-
-# Google Interview University
+My fork of the Google Interview University repo. Not really for a google interview, though that would be fun, more like another resource for brain feeding.
 
 
 ## What is it?
