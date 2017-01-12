@@ -2,7 +2,7 @@ My fork of the Google Interview University repo. Not really for a google intervi
 
 ---
 
-currently working through: https://www.hiredintech.com/classrooms/system-design/lesson/55 from the system design section. Wayy down
+currently working through: https://www.hiredintech.com/classrooms/system-design/lesson/60 from the system design section. Wayy down
 
 ---
 
