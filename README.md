@@ -1,5 +1,11 @@
 My fork of the Google Interview University repo. Not really for a google interview, though that would be fun, more like another resource for brain feeding. Self taught Web dev -> software engineer.
 
+---
+
+currently working through: https://www.hiredintech.com/classrooms/system-design/lesson/55 from the system design section. Wayy down
+
+---
+
  - extracted from Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)"
  - another interview resource for the more experianced [Read more here](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
 
