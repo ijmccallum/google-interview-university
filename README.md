@@ -4,6 +4,8 @@ My fork of the Google Interview University repo. Not really for a google intervi
 
 currently working through: https://www.hiredintech.com/classrooms/system-design/lesson/60 from the system design section. Wayy down
 
+https://youtu.be/-W9F__D3oY4?t=2797
+
 ---
 
  - extracted from Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)"
