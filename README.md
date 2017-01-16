@@ -1,6 +1,11 @@
 My fork of the Google Interview University repo. Not really for a google interview, though that would be fun, more like another resource for brain feeding. Self taught Web dev -> software engineer.
 
 ---
+Discoveries while working through all this:
+
+ - http://highscalability.com/
+
+---
 
 currently working through: https://www.hiredintech.com/classrooms/system-design/lesson/60 from the system design section. Wayy down
 
@@ -1057,10 +1062,11 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
   - [ ] CS75: [Lecture 7](https://www.youtube.com/watch?v=_th7tvX83eM) AJAX
   - [ ] CS75: [Lecture 8](https://www.youtube.com/watch?v=zlTVcNxg38c) Security
   - [x] CS75: [Lecture 9](https://www.youtube.com/watch?v=-W9F__D3oY4) Scalability 
-  - [ ] Scalability for Dummies, [part 1](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
-  - [ ] Scalability for Dummies, [part 2](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
-  - [ ] Scalability for Dummies, [part 3](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
-  - [ ] Scalability for Dummies, [part 4](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+  - [x] Scalability for Dummies, [part 1](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+  - [x] Scalability for Dummies, [part 2](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+  - [x] Scalability for Dummies, [part 3](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+  - [x] Scalability for Dummies, [part 4](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+  - [ ] [Building an architecture on AWS](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
 - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
 - [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 - [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
