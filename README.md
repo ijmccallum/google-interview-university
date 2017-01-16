@@ -1051,7 +1051,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - simplicity and robustness
         - tradeoffs
         - performance analysis and optimization
-- [ ] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
+- [x] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
   - [ ] CS75: [Lecture 0](https://www.youtube.com/watch?v=8KuO4r5CHjM) (ha!) HTTP
   - [ ] CS75: [Lecture 1](https://www.youtube.com/watch?v=gwUEjgbs02w) PHP
   - [ ] CS75: [Lecture 2](https://www.youtube.com/watch?v=TbhUCY2NmZE) PHP (cont.)
