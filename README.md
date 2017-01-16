@@ -1047,6 +1047,16 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - tradeoffs
         - performance analysis and optimization
 - [ ] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
+  - [ ] CS75: [Lecture 0](https://www.youtube.com/watch?v=8KuO4r5CHjM) (ha!) HTTP
+  - [ ] CS75: [Lecture 1](https://www.youtube.com/watch?v=gwUEjgbs02w) PHP
+  - [ ] CS75: [Lecture 2](https://www.youtube.com/watch?v=TbhUCY2NmZE) PHP (cont.)
+  - [ ] CS75: [Lecture 3](https://www.youtube.com/watch?v=Y-uG9c3eLp8) MVC XML
+  - [ ] CS75: [Lecture 4](https://www.youtube.com/watch?v=llHNrEg0dfA) SQL
+  - [ ] CS75: [Lecture 5](https://www.youtube.com/watch?v=5C8y5Vq7Ceo) SQL (cont.)
+  - [ ] CS75: [Lecture 6](https://www.youtube.com/watch?v=PcVgPsrEzuU) Javascript
+  - [ ] CS75: [Lecture 7](https://www.youtube.com/watch?v=_th7tvX83eM) AJAX
+  - [ ] CS75: [Lecture 8](https://www.youtube.com/watch?v=zlTVcNxg38c) Security
+  - [x] CS75: [Lecture 9](https://www.youtube.com/watch?v=-W9F__D3oY4) Scalability 
 - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
 - [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 - [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
