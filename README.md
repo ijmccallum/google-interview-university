@@ -7,9 +7,7 @@ Discoveries while working through all this:
 
 ---
 
-currently working through: https://www.hiredintech.com/classrooms/system-design/lesson/60 from the system design section. Wayy down
-
-https://youtu.be/-W9F__D3oY4?t=2797
+currently working through: https://www.youtube.com/watch?v=8KuO4r5CHjM&t=4s lecture 0!
 
 ---
 
