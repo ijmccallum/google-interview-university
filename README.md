@@ -972,8 +972,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - tradeoffs
         - performance analysis and optimization
 - [x] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-  - [ ] CS75: [Lecture 0](https://www.youtube.com/watch?v=8KuO4r5CHjM) (ha!) HTTP
-  - [ ] CS75: [Lecture 1](https://www.youtube.com/watch?v=gwUEjgbs02w) PHP
+  - [x] CS75: [Lecture 0](https://www.youtube.com/watch?v=8KuO4r5CHjM) (ha!) HTTP
+  - [ ] 30mins CS75: [Lecture 1](https://www.youtube.com/watch?v=gwUEjgbs02w) PHP
   - [ ] CS75: [Lecture 2](https://www.youtube.com/watch?v=TbhUCY2NmZE) PHP (cont.)
   - [ ] CS75: [Lecture 3](https://www.youtube.com/watch?v=Y-uG9c3eLp8) MVC XML
   - [ ] CS75: [Lecture 4](https://www.youtube.com/watch?v=llHNrEg0dfA) SQL
