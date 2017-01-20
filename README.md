@@ -64,10 +64,10 @@ If you want to be a reliability engineer or systems engineer, study more from th
 ## About Google
 
 - [ ] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] How Search Works:
+- [x] How Search Works:
     - [x] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
-    - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
-    - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
+    - [x] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
+    - [x] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
     - [x] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
     - [x] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] Series:
