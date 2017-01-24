@@ -975,7 +975,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
   - [x] CS75: [Lecture 0](https://www.youtube.com/watch?v=8KuO4r5CHjM) (ha!) HTTP
   - [x] CS75: [Lecture 1](https://www.youtube.com/watch?v=gwUEjgbs02w) PHP (mainly apache actually)
   - [x] CS75: [Lecture 2](https://www.youtube.com/watch?v=TbhUCY2NmZE) PHP (cont.)
-  - [ ] CS75: [Lecture 3](https://www.youtube.com/watch?v=Y-uG9c3eLp8) MVC XML
+  - [x] CS75: [Lecture 3](https://www.youtube.com/watch?v=Y-uG9c3eLp8) MVC XML
   - [ ] CS75: [Lecture 4](https://www.youtube.com/watch?v=llHNrEg0dfA) SQL
   - [ ] CS75: [Lecture 5](https://www.youtube.com/watch?v=5C8y5Vq7Ceo) SQL (cont.)
   - [ ] CS75: [Lecture 6](https://www.youtube.com/watch?v=PcVgPsrEzuU) Javascript
