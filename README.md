@@ -7,7 +7,7 @@ Discoveries while working through all this:
 
 ---
 
-currently working through: https://www.youtube.com/watch?v=5C8y5Vq7Ceo
+currently working through: https://youtu.be/5C8y5Vq7Ceo?t=1391
 
 ---
 
