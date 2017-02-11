@@ -911,7 +911,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
   - [x] CS75: [Lecture 3](https://www.youtube.com/watch?v=Y-uG9c3eLp8) MVC XML
   - [x] CS75: [Lecture 4](https://www.youtube.com/watch?v=llHNrEg0dfA) SQL
   - [x] CS75: [Lecture 5](https://www.youtube.com/watch?v=5C8y5Vq7Ceo) SQL (cont.)
-  - [ ] CS75: [Lecture 6](https://www.youtube.com/watch?v=PcVgPsrEzuU) Javascript
+  - [x] CS75: [Lecture 6](https://www.youtube.com/watch?v=PcVgPsrEzuU) Javascript
   - [ ] CS75: [Lecture 7](https://www.youtube.com/watch?v=_th7tvX83eM) AJAX
   - [ ] CS75: [Lecture 8](https://www.youtube.com/watch?v=zlTVcNxg38c) Security
   - [x] CS75: [Lecture 9](https://www.youtube.com/watch?v=-W9F__D3oY4) Scalability 
